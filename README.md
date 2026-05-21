@@ -39,7 +39,7 @@ The tool will automatically start.
 - Easy To Use
 - Automatic Setup
 - One Click Execute
-- Windows Support
+- Fix mic
 
 ---
 
